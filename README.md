@@ -6,7 +6,7 @@ date-format: long
 author: Jonathan Gilligan
 ---
 <!-- badges: start -->
-  [![quarto-publish-example](./actions/workflows/quarto-publish-example.yml/badge.svg)](./actions/workflows/quarto-publish-example.yml)
+  [![quarto-publish-example](../../actions/workflows/quarto-publish-example.yml/badge.svg)](../../actions/workflows/quarto-publish-example.yml)
   <!-- badges: end -->
 
 ## Instructions
