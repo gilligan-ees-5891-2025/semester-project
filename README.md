@@ -5,10 +5,6 @@ date: "2025-04-08"
 date-format: long
 author: Jonathan Gilligan
 ---
-<!-- badges: start -->
-  [![quarto-publish-example](../../actions/workflows/quarto-publish-example.yml/badge.svg)](../../actions/workflows/quarto-publish-example.yml)
-  <!-- badges: end -->
-
 ## Instructions
 
 Create an RStudio project from this GitHub repository: Create a new

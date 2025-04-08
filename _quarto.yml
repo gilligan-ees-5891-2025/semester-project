@@ -1,8 +1,5 @@
 project:
   title: "Semester Research Project"
-  type: manuscript
-manuscript:
-  article: "semester-project.qmd"
 
 editor: visual
 execute:
