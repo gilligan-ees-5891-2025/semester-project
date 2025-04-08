@@ -6,8 +6,7 @@ date-format: long
 author: Jonathan Gilligan
 ---
 <!-- badges: start -->
-  [![quarto-publish-example](https://github.com/gilligan-ees-5891-2025/semester-project/actions/workflows/quarto-publish-example.yml/badge.svg)](https://github.com/gilligan-ees-5891-2025/semester-project/actions/workflows/quarto-publish-example.yml)
-  [![Codecov test coverage](https://codecov.io/gh/gilligan-ees-5891-2025/semester-project/graph/badge.svg)](https://app.codecov.io/gh/gilligan-ees-5891-2025/semester-project)
+  [![quarto-publish-example](./workflows/quarto-publish-example.yml/badge.svg)](./actions/workflows/quarto-publish-example.yml)
   <!-- badges: end -->
 
 ## Instructions
